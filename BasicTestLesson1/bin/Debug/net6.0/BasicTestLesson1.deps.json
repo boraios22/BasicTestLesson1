@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BasicTestLesson1/1.0.0": {
+        "runtime": {
+          "BasicTestLesson1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicTestLesson1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

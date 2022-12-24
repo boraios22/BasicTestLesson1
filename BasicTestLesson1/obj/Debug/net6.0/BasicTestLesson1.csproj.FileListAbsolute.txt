@@ -1,0 +1,15 @@
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/bin/Debug/net6.0/BasicTestLesson1
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/bin/Debug/net6.0/BasicTestLesson1.deps.json
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/bin/Debug/net6.0/BasicTestLesson1.runtimeconfig.json
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/bin/Debug/net6.0/BasicTestLesson1.dll
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/bin/Debug/net6.0/BasicTestLesson1.pdb
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.csproj.AssemblyReference.cache
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.AssemblyInfoInputs.cache
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.AssemblyInfo.cs
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.csproj.CoreCompileInputs.cache
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.dll
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/refint/BasicTestLesson1.dll
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.pdb
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/BasicTestLesson1.genruntimeconfig.cache
+/Users/homeapp/Projects/PSD13 Saturday group/BasicTestLesson1/BasicTestLesson1/obj/Debug/net6.0/ref/BasicTestLesson1.dll
